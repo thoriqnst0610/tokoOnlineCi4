@@ -1,0 +1,46 @@
+CRITICAL - 2024-12-19 04:06:33 --> TypeError: App\Libraries\KategoriProdukLibrary::ambilKategoriId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/undefined]
+in APPPATH\Libraries\KategoriProdukLibrary.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(53): App\Libraries\KategoriProdukLibrary->ambilKategoriId('undefined')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->ambilKategoriProdukId('undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-19 04:06:44 --> TypeError: App\Libraries\KategoriProdukLibrary::ambilKategoriId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/undefined]
+in APPPATH\Libraries\KategoriProdukLibrary.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(53): App\Libraries\KategoriProdukLibrary->ambilKategoriId('undefined')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->ambilKategoriProdukId('undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-19 04:08:05 --> TypeError: App\Libraries\KategoriProdukLibrary::ambilKategoriId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/undefined]
+in APPPATH\Libraries\KategoriProdukLibrary.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(53): App\Libraries\KategoriProdukLibrary->ambilKategoriId('undefined')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Admin->ambilKategoriProdukId('undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+ERROR - 2024-12-19 04:30:06 --> id kategori kosong: 
+ERROR - 2024-12-19 04:31:52 --> id kategori kosong: 
+ERROR - 2024-12-19 04:32:30 --> id kategori kosong: 
+ERROR - 2024-12-19 04:33:50 --> id kategori kosong: 
+ERROR - 2024-12-19 04:33:59 --> id kategori kosong: 
+ERROR - 2024-12-19 04:34:06 --> id kategori kosong: 
+ERROR - 2024-12-19 04:34:17 --> id kategori kosong: 
+ERROR - 2024-12-19 04:34:19 --> id kategori kosong: 
+ERROR - 2024-12-19 04:38:58 --> Gagal menyimpan data kategori: Array
+(
+)
+
+INFO - 2024-12-19 04:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,643 @@
+CRITICAL - 2024-12-21 00:22:56 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, App\Models\ProdukModel returned
+[Method: GET, Route: ambilProdukId/produk202412200954547133]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\DataProduk.php(63): App\Libraries\ProdukLibrary->ambilProdukId('produk202412200954547133')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataProduk->ambilProdukId('produk202412200954547133')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 00:22:58 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, App\Models\ProdukModel returned
+[Method: GET, Route: ambilProdukId/produk202412202354083823]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\DataProduk.php(63): App\Libraries\ProdukLibrary->ambilProdukId('produk202412202354083823')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataProduk->ambilProdukId('produk202412202354083823')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 00:23:00 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, App\Models\ProdukModel returned
+[Method: GET, Route: ambilProdukId/produk202412202350545889]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\DataProduk.php(63): App\Libraries\ProdukLibrary->ambilProdukId('produk202412202350545889')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataProduk->ambilProdukId('produk202412202350545889')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 00:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 00:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:32:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:33:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:33:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-21 01:37:56 --> Gagal menyimpan data kategori: Array
+(
+)
+
+INFO - 2024-12-21 01:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-21 01:39:49 --> Gagal menyimpan data kategori: Array
+(
+)
+
+INFO - 2024-12-21 01:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2024-12-21 01:40:22 --> Gagal menyimpan data kategori: Array
+(
+)
+
+INFO - 2024-12-21 01:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:41:50 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210137566890]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210137566890')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210137566890')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:41:58 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210137566890]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210137566890')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210137566890')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:42:00 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:42:03 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:42:05 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:42:06 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:42:12 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:42:21 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:43:06 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210137566890]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210137566890')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210137566890')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:13 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:43:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:43:28 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210137566890]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210137566890')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210137566890')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:32 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210137566890]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210137566890')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210137566890')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:35 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:39 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:41 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:49 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:51 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:43:54 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/kategori202412210140221529]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('kategori202412210140221529')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('kategori202412210140221529')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:44:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:44:10 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:44:14 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:45:02 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:45:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:45:36 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:45:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:46:07 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:46:22 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:46:24 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:48:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:48:22 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:48:25 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:48:46 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:48:49 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:49:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:49:56 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:50:00 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:50:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:50:12 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:50:15 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:51:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:51:22 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:51:24 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:53:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 01:53:42 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/123]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('123')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('123')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 01:53:45 --> TypeError: App\Libraries\ProdukLibrary::ambilProdukId(): Return value must be of type array|bool, null returned
+[Method: GET, Route: ambilKategoriProdukId/321]
+in APPPATH\Libraries\ProdukLibrary.php on line 51.
+ 1 APPPATH\Controllers\KategoriProduk.php(54): App\Libraries\ProdukLibrary->ambilProdukId('321')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\kategoriProduk->ambilKategoriProdukId('321')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\kategoriProduk))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 01:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:56:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:57:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 01:59:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 02:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 04:18:23 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "/login" cannot be found.
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 64.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/login')
+ 2 SYSTEMPATH\Common.php(853): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Home.php(41): redirect('/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerPost()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+CRITICAL - 2024-12-21 04:19:44 --> CodeIgniter\HTTP\Exceptions\HTTPException: The route for "/login" cannot be found.
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 64.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(64): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('/login')
+ 2 SYSTEMPATH\Common.php(853): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Home.php(41): redirect('/login')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->registerPost()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 04:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 04:39:46 --> TypeError: App\Libraries\AdminLibrary::loginAdmin(): Argument #2 ($password) must be of type string, null given, called in C:\Users\Administrator\tokoOnlineCi4\app\Controllers\Home.php on line 26
+[Method: POST, Route: login]
+in APPPATH\Libraries\AdminLibrary.php on line 38.
+ 1 APPPATH\Controllers\Home.php(26): App\Libraries\AdminLibrary->loginAdmin('thoriq', null)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPost()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 04:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:40:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:50:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:52:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 04:52:24 --> TypeError: App\Libraries\AdminLibrary::loginAdmin(): Argument #2 ($password) must be of type string, null given, called in C:\Users\Administrator\tokoOnlineCi4\app\Controllers\Home.php on line 26
+[Method: POST, Route: login]
+in APPPATH\Libraries\AdminLibrary.php on line 38.
+ 1 APPPATH\Controllers\Home.php(26): App\Libraries\AdminLibrary->loginAdmin('thoriq', null)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPost()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 04:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 04:53:17 --> ErrorException: Trying to access array offset on value of type null
+[Method: POST, Route: login]
+in APPPATH\Libraries\AdminLibrary.php on line 50.
+ 1 APPPATH\Libraries\AdminLibrary.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Administrator\\tokoOnlineCi4\\app\\Libraries\\AdminLibrary.php', 50)
+ 2 APPPATH\Controllers\Home.php(26): App\Libraries\AdminLibrary->loginAdmin('thoriq', 'thoriq')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPost()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 04:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:53:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-12-21 04:53:21 --> ErrorException: Trying to access array offset on value of type null
+[Method: POST, Route: login]
+in APPPATH\Libraries\AdminLibrary.php on line 50.
+ 1 APPPATH\Libraries\AdminLibrary.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\Administrator\\tokoOnlineCi4\\app\\Libraries\\AdminLibrary.php', 50)
+ 2 APPPATH\Controllers\Home.php(26): App\Libraries\AdminLibrary->loginAdmin('thoriq', 'thoriq')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->loginPost()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\Administrator\\tokoOnlineCi4\\public\\index.php')
+INFO - 2024-12-21 04:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:56:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-12-21 04:56:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
